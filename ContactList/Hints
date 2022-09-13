@@ -1,0 +1,21 @@
+ContactList
+Create an application for managing a contact list. There are several kinds of contact and various kinds 
+of information a contact can hold.
+The user wants to store the contact information of:
+Friends of the user
+Family members
+Businesses the user has a relationship with
+Coworkers
+Individual contacts within other businesses
+They want to keep track of contact names, phone numbers, email addresses, postal addresses, birthdays, GST 
+registration numbers, employers, employees, relationships, and notes. These pieces of information can change 
+over time, and the user wants to be able to get a current report of applicable information for any contact 
+after looking them up. 
+They want to be able to explore the contacts: after viewing a contact, they should be able to move on easily
+ to viewing one of their relatives or employees, or their employer. Contacts should be deletable, modifiable,
+  and addable, and their interconnections should be changeable. The user interface can be either textual or 
+  graphical, and you may include saving and loading to file if you wish.
+Design and build an application to keep track of these contacts. You may want to use inheritance, 
+interfaces, recursive methods, lists, and objects in your program. Consider how best to represent 
+the data and behaviour you want to support, and if there are any particular elements you'd like to practice 
+or revise, how you can work those in as well.
